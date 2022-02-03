@@ -14,7 +14,7 @@ This was for Scrimba's Front-End Developer Career Path where we built an mini em
 
 # Preview
 
-<img src="https://github.com/thejoshyee/my-emojis/blob/main/my-emoji-preview.png"/>
+<img src="https://github.com/thejoshyee/my-emojis/blob/main/my-emoji-preview.png" width="50%"/>
 
 
 Quick start:
